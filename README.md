@@ -6,3 +6,6 @@ Sou um estudante apaixonado por novas tecnologias e que adora explorar e descobr
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.sooaress/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussooares&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussooares&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
