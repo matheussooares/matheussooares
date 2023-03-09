@@ -7,8 +7,8 @@ Sou bacharel em formação do curso Engenharia de Computação no qual sigo a ve
 Aqui busco compartilhar meus conhecimentos e projetos enquanto adquiro novos conhecimentos. 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussooares&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussooares&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussooares&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussooares&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmatheussoaresf/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.sooaress/)
