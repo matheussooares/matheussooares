@@ -35,7 +35,7 @@ Aqui busco compartilhar meus conhecimentos e projetos enquanto adquiro novos con
 ### GitHub status
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussooares&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussooares&show_icons=true&theme=black)
 </div>
 
 <div align="center">
