@@ -34,11 +34,13 @@ Aqui busco compartilhar meus conhecimentos e projetos enquanto adquiro novos con
 
 ### GitHub status
 <div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussooares&show_icons=true&theme=dark)
 </div>
 
 <div align="center">
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheussooares&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&theme=dracula)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheussooares&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 </div>
 
