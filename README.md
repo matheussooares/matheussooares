@@ -37,7 +37,9 @@ Aqui busco compartilhar meus conhecimentos e projetos enquanto adquiro novos con
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussooares&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheussooares&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
 </div>
 
 ### Contrubuições:
